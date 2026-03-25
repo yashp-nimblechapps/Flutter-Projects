@@ -50,6 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
+    //key
     appId: '1:739978018228:android:226026c9290c9be5c106e1',
     messagingSenderId: '739978018228',
     projectId: 'stackhive-1420',
@@ -57,6 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
+    //key
     appId: '1:739978018228:ios:770c605aa0c48af0c106e1',
     messagingSenderId: '739978018228',
     projectId: 'stackhive-1420',
